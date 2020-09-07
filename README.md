@@ -23,3 +23,8 @@ Then we declare in the activity the Kotlin external method with the same name as
 external fun add(x: Float, y: Float): Float
 ```
 
+![QR decode screenshot](images/art_view.png)
+
+![QR decode screenshot](images/screenshot.png)
+
+
